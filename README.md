@@ -40,4 +40,4 @@ Every project in this profile represents a step forward in my learning process. 
 
 ---
 
-*"Knowledge is power when combined with action."*
+*"Knowledge is power when combined with action."* 
